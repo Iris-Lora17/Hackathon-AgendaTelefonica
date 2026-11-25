@@ -8,8 +8,11 @@ Fortalecer los conocimientos de Java mediante el desarrollo de una aplicación p
 **ROLES:**
 
 Marco Daniel Vázquez Fernández **SCRUM MASTER y Dev**
+
 María Fernanda García Rocha **Dev**
+
 Ricardo Teneyuque Huerta **Dev**
+
 Iris Carolina Lora Rivera **Dev**
 
 
