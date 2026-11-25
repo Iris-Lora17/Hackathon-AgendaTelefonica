@@ -5,15 +5,15 @@ Aplicación de consola desarrollada en Java que permite administrar contactos te
 **🎯 Objetivo del proyecto**
 Fortalecer los conocimientos de Java mediante el desarrollo de una aplicación práctica que permita comprender la creación de clases, la manipulación de objetos, el uso de colecciones y la implementación de operaciones CRUD básicas.
 
-**ROLES:**
+**EQUIPO Y ROLES DESEMPEÑADOS:**
 
-Marco Daniel Vázquez Fernández **SCRUM MASTER y Dev**
+Marco Daniel Vázquez Fernández **(SCRUM MASTER y Dev)**
 
-María Fernanda García Rocha **Dev**
+María Fernanda García Rocha **(Dev)**
 
-Ricardo Teneyuque Huerta **Dev**
+Ricardo Teneyuque Huerta **(Dev)**
 
-Iris Carolina Lora Rivera **Dev**
+Iris Carolina Lora Rivera **(Dev)**
 
 
 **🚀 Características**
