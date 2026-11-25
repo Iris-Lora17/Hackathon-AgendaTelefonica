@@ -36,7 +36,8 @@ La aplicación permite realizar las siguientes operaciones:
 ├── Contacto.java
 └── README.md
 
-**Descripción de las clases**
+
+**==Descripción de las clases==**
 
 **Main.java**
 Punto de entrada de la aplicación.
