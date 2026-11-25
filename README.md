@@ -72,3 +72,76 @@ Administra la colección de contactos.
 Utiliza HashSet para evitar registros duplicados por nombre.
 
 Implementa las operaciones de búsqueda, registro, eliminación y consulta de capacidad.
+
+## 📋 Validaciones implementadas
+
+*Nombre:*
+- No puede estar vacío.
+- No permite números.
+- Se eliminan espacios al inicio y al final.
+
+*Teléfono:*
+- Debe contener exactamente 10 dígitos.
+- No permite letras ni caracteres especiales.
+- Se almacena como String para conservar posibles ceros iniciales.
+
+## 💻 Instalación y ejecución
+
+1. Clona el repositorio:
+
+bash
+git clone URL_DEL_REPOSITORIO
+
+
+2. Ingresa a la carpeta del proyecto:
+
+bash
+cd AgendaTelefonica
+
+
+3. Compila los archivos:
+
+bash
+javac Main.java Agenda.java Contacto.java
+
+
+4. Ejecuta la aplicación:
+
+bash
+java Main
+
+
+Se solicitará la capacidad máxima de la agenda y posteriormente aparecerá el menú principal.
+
+## 🧠 Conceptos de programación aplicados
+
+Este proyecto permite practicar los siguientes conceptos:
+
+- Programación orientada a objetos.
+- Encapsulamiento.
+- Constructores.
+- Métodos estáticos y de instancia.
+- Colecciones y genéricos.
+- Interfaces Set.
+- Implementación HashSet.
+- Ciclos for-each.
+- Estructuras condicionales (if, switch).
+- Validación de datos.
+- Manejo de excepciones.
+- Sobrescritura de métodos (@Override).
+- Comparación de objetos mediante equals() y hashCode().
+
+## 📌 Consideraciones
+
+- La capacidad máxima de la agenda se establece al iniciar el programa.
+- No se permiten contactos con nombres duplicados, independientemente de las mayúsculas o minúsculas.
+- Los contactos se almacenan en memoria durante la ejecución; no existe persistencia en archivos o bases de datos.
+- HashSet no garantiza un orden específico al listar los contactos.
+
+## 🎯 Objetivo del proyecto
+
+Fortalecer los conocimientos de Java mediante el desarrollo de una aplicación práctica que permita comprender la creación de clases, la manipulación de objetos, el uso de colecciones y la implementación de operaciones CRUD básicas.
+
+---
+
+*Proyecto de práctica desarrollado con Java.*
