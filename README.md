@@ -2,7 +2,7 @@
 
 Aplicación de consola desarrollada en Java que permite administrar contactos telefónicos mediante un menú interactivo. El proyecto implementa conceptos fundamentales de programación orientada a objetos (POO), manejo de colecciones y validación de datos.
 
-**## 🎯 Objetivo del proyecto**
+**🎯 Objetivo del proyecto**
 Fortalecer los conocimientos de Java mediante el desarrollo de una aplicación práctica que permita comprender la creación de clases, la manipulación de objetos, el uso de colecciones y la implementación de operaciones CRUD básicas.
 
 **🚀 Características**
