@@ -6,6 +6,7 @@ Aplicación de consola desarrollada en Java que permite administrar contactos te
 Fortalecer los conocimientos de Java mediante el desarrollo de una aplicación práctica que permita comprender la creación de clases, la manipulación de objetos, el uso de colecciones y la implementación de operaciones CRUD básicas.
 
 **🚀 Características**
+
 La aplicación permite realizar las siguientes operaciones:
 
 **Añadir contacto:** registra un nuevo contacto proporcionando nombre y teléfono.
