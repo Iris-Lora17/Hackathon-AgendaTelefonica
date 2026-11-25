@@ -67,7 +67,7 @@ Implementa las operaciones de búsqueda, registro, eliminación y consulta de ca
 - No permite letras ni caracteres especiales.
 - Se almacena como String para conservar posibles ceros iniciales.
 
-**## 💻 Instalación y ejecución**
+**💻 Instalación y ejecución**
 
 **1. Clona el repositorio:**
 
