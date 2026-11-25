@@ -56,12 +56,12 @@ Implementa las operaciones de búsqueda, registro, eliminación y consulta de ca
 
 **📋 Validaciones implementadas**
 
-*Nombre:*
+**Nombre:**
 - No puede estar vacío.
 - No permite números.
 - Se eliminan espacios al inicio y al final.
 
-*Teléfono:*
+**Teléfono:**
 - Debe contener exactamente 10 dígitos.
 - No permite letras ni caracteres especiales.
 - Se almacena como String para conservar posibles ceros iniciales.
@@ -94,7 +94,7 @@ java Main
 
 Se solicitará la capacidad máxima de la agenda y posteriormente aparecerá el menú principal.
 
-** 🧠 Conceptos de programación aplicados**
+**🧠 Conceptos de programación aplicados**
 
 **Este proyecto permite practicar los siguientes conceptos:**
 
