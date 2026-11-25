@@ -1,40 +1,44 @@
-📒 Agenda Telefónica en Java
+**📒 Agenda Telefónica en Java**
 
 Aplicación de consola desarrollada en Java que permite administrar contactos telefónicos mediante un menú interactivo. El proyecto implementa conceptos fundamentales de programación orientada a objetos (POO), manejo de colecciones y validación de datos.
 
-🚀 Características
+**## 🎯 Objetivo del proyecto**
+
+Fortalecer los conocimientos de Java mediante el desarrollo de una aplicación práctica que permita comprender la creación de clases, la manipulación de objetos, el uso de colecciones y la implementación de operaciones CRUD básicas.
+
+**🚀 Características**
 
 La aplicación permite realizar las siguientes operaciones:
 
-Añadir contacto: registra un nuevo contacto proporcionando nombre y teléfono.
+**Añadir contacto:** registra un nuevo contacto proporcionando nombre y teléfono.
 
-Comprobar contacto: verifica si un contacto ya se encuentra registrado.
+**Comprobar contacto:** verifica si un contacto ya se encuentra registrado.
 
-Listar contactos: muestra todos los contactos almacenados.
+**Listar contactos:** muestra todos los contactos almacenados.
 
-Buscar contacto: localiza un contacto mediante su nombre y muestra su número telefónico.
+**Buscar contacto:** localiza un contacto mediante su nombre y muestra su número telefónico.
 
-Eliminar contacto: elimina un contacto de la agenda.
+**Eliminar contacto:** elimina un contacto de la agenda.
 
-Verificar agenda llena: comprueba si se alcanzó la capacidad máxima establecida.
+**Verificar agenda llena:** comprueba si se alcanzó la capacidad máxima establecida.
 
-Consultar espacios libres: muestra cuántos contactos adicionales se pueden registrar.
+**Consultar espacios libres:** muestra cuántos contactos adicionales se pueden registrar.
 
-Salir: finaliza la ejecución del programa.
+**Salir:** finaliza la ejecución del programa.
 
-🛠️ Tecnologías utilizadas
+**🛠️ Tecnologías utilizadas**
 
-Lenguaje: Java.
+**Lenguaje:** Java.
 
-IDE: IntelliJ IDEA.
+**IDE:** IntelliJ IDEA.
 
-Colecciones: Java Collections Framework (Set, HashSet).
+**Colecciones:** Java Collections Framework (Set, HashSet).
 
-Entrada de datos: Scanner.
+**Entrada de datos:** Scanner.
 
-Control de versiones: Git y GitHub.
+**Control de versiones:** Git y GitHub.
 
-📂 Estructura del proyecto
+**📂 Estructura del proyecto**
 
 AgendaTelefonica/
 │
@@ -43,9 +47,9 @@ AgendaTelefonica/
 ├── Contacto.java
 └── README.md
 
-Descripción de las clases
+**Descripción de las clases**
 
-Main.java
+**Main.java**
 
 Punto de entrada de la aplicación.
 
@@ -55,7 +59,7 @@ Captura y validación de datos.
 
 Invocación de las operaciones de la agenda.
 
-Contacto.java
+**Contacto.java**
 
 Modelo que representa un contacto.
 
@@ -65,7 +69,7 @@ Implementa validaciones para los datos.
 
 Sobrescribe equals(), hashCode() y toString().
 
-Agenda.java
+**Agenda.java**
 
 Administra la colección de contactos.
 
@@ -85,27 +89,27 @@ Implementa las operaciones de búsqueda, registro, eliminación y consulta de ca
 - No permite letras ni caracteres especiales.
 - Se almacena como String para conservar posibles ceros iniciales.
 
-## 💻 Instalación y ejecución
+**## 💻 Instalación y ejecución**
 
-1. Clona el repositorio:
+**1. Clona el repositorio:**
 
 bash
 git clone URL_DEL_REPOSITORIO
 
 
-2. Ingresa a la carpeta del proyecto:
+**2. Ingresa a la carpeta del proyecto:**
 
 bash
 cd AgendaTelefonica
 
 
-3. Compila los archivos:
+**3. Compila los archivos:**
 
 bash
 javac Main.java Agenda.java Contacto.java
 
 
-4. Ejecuta la aplicación:
+**4. Ejecuta la aplicación:**
 
 bash
 java Main
@@ -113,9 +117,9 @@ java Main
 
 Se solicitará la capacidad máxima de la agenda y posteriormente aparecerá el menú principal.
 
-## 🧠 Conceptos de programación aplicados
+**## 🧠 Conceptos de programación aplicados**
 
-Este proyecto permite practicar los siguientes conceptos:
+**Este proyecto permite practicar los siguientes conceptos:**
 
 - Programación orientada a objetos.
 - Encapsulamiento.
@@ -131,17 +135,13 @@ Este proyecto permite practicar los siguientes conceptos:
 - Sobrescritura de métodos (@Override).
 - Comparación de objetos mediante equals() y hashCode().
 
-## 📌 Consideraciones
+**## 📌 Consideraciones**
 
 - La capacidad máxima de la agenda se establece al iniciar el programa.
 - No se permiten contactos con nombres duplicados, independientemente de las mayúsculas o minúsculas.
 - Los contactos se almacenan en memoria durante la ejecución; no existe persistencia en archivos o bases de datos.
 - HashSet no garantiza un orden específico al listar los contactos.
 
-## 🎯 Objetivo del proyecto
 
-Fortalecer los conocimientos de Java mediante el desarrollo de una aplicación práctica que permita comprender la creación de clases, la manipulación de objetos, el uso de colecciones y la implementación de operaciones CRUD básicas.
 
----
-
-*Proyecto de práctica desarrollado con Java.*
+***Proyecto de práctica desarrollado con Java.***
