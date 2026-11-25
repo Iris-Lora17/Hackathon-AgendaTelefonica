@@ -113,7 +113,7 @@ Se solicitará la capacidad máxima de la agenda y posteriormente aparecerá el 
 - Sobrescritura de métodos (@Override).
 - Comparación de objetos mediante equals() y hashCode().
 
-**## 📌 Consideraciones**
+**📌 Consideraciones**
 
 - La capacidad máxima de la agenda se establece al iniciar el programa.
 - No se permiten contactos con nombres duplicados, independientemente de las mayúsculas o minúsculas.
