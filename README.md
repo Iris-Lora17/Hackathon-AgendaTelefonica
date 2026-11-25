@@ -10,12 +10,19 @@ Fortalecer los conocimientos de Java mediante el desarrollo de una aplicación p
 La aplicación permite realizar las siguientes operaciones:
 
 **Añadir contacto:** registra un nuevo contacto proporcionando nombre y teléfono.
+
 **Comprobar contacto:** verifica si un contacto ya se encuentra registrado.
+
 **Listar contactos:** muestra todos los contactos almacenados.
+
 **Buscar contacto:** localiza un contacto mediante su nombre y muestra su número telefónico.
+
 **Eliminar contacto:** elimina un contacto de la agenda.
+
 **Verificar agenda llena:** comprueba si se alcanzó la capacidad máxima establecida.
+
 **Consultar espacios libres:** muestra cuántos contactos adicionales se pueden registrar.
+
 **Salir:** finaliza la ejecución del programa.
 
 
